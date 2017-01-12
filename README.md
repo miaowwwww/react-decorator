@@ -4,4 +4,5 @@ user decorator to react component
 组件适当颗粒化，成为木偶式组件。由父组件通过this.props提供业务函数。
 
 npm install
+
 npm start
